@@ -1,4 +1,4 @@
-[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/016/345/541/original/brandon-pirruccello-ui-style-concept-rings-01.gif?1551812781)]()
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/016/345/541/original/brandon-pirruccello-ui-style-concept-rings-01.gif?1551812781)]
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">On an expedition of data driven Metaverse</h3>
 <img align="right" alt="Coding" width="400" src="https://finwave.co/images/gif/Platform-Tools-04_v1.gif">
