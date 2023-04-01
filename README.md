@@ -1,10 +1,9 @@
+[![MasterHead](https://cdnb.artstation.com/p/assets/images/images/016/345/541/original/brandon-pirruccello-ui-style-concept-rings-01.gif?1551812781)]
 <h1 align="center">Hi 👋, I'm Atharv</h1>
 <h3 align="center">On an expedition of data driven Metaverse</h3>
 <img align="right" alt="Coding" width="400" src="https://finwave.co/images/gif/Platform-Tools-04_v1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv299&label=Profile%20views&color=0e75b6&style=flat" alt="atharv299" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv299" alt="atharv299" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
