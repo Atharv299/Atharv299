@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **athuyadav@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tslcRtPmsaiHQw99wTMDHlq6pel_HW9N/view?usp=sharing](https://drive.google.com/file/d/1tslcRtPmsaiHQw99wTMDHlq6pel_HW9N/view?usp=sharing)
-
 - ⚡ Guess Why do programmers prefer dark mode **- Cause light attracts bugs**
 
 <h3 align="left">Connect with me:</h3>
